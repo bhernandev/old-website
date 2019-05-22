@@ -1,0 +1,14 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h4 {
+	color:#262626;
+}
+
+a {
+	color:#AE0000;
+	text-decoration: none;
+}
+
+/* excellent color for contrast is #00443F */
